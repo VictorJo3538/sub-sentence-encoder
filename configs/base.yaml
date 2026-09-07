@@ -1,0 +1,19 @@
+# 8GB VRAM 기준 기본 설정
+# OOM 발생 시: batch_size를 8로 낮추고 grad_accum_steps를 4로 올리세요.
+
+encoder_name: "bert-base-uncased"          # 더 가볍게 하려면 "distilbert-base-uncased"
+projection_size: 256
+dropout: 0.1
+
+max_seq_len: 128
+batch_size: 16
+grad_accum_steps: 2                 # 실질 배치 크기 = batch_size * grad_accum_steps
+learning_rate: 2.0e-5
+weight_decay: 0.01
+warmup_ratio: 0.1
+temperature: 0.05
+
+epochs: 3
+fp16: true
+seed: 42
+log_every: 10

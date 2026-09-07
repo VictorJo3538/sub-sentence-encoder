@@ -1,0 +1,12 @@
+torch>=2.6.0
+transformers>=4.38.0
+numpy>=1.24.0
+pyyaml>=6.0
+tqdm>=4.66.0
+scikit-learn>=1.3.0
+
+# scripts/segment_propositions.py (SegmenT5 연동 + 논문 방식 span 정렬)용 추가 의존성
+sentencepiece>=0.2.0
+accelerate>=0.30.0
+nltk>=3.8
+scipy>=1.10.0

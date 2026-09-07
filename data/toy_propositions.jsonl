@@ -1,0 +1,10 @@
+{"text_a": "Dracula is a novel by Bram Stoker featuring Count Dracula as the protagonist.", "span_a": [0, 33], "text_b": "The novel Dracula was written by Bram Stoker.", "span_b": [0, 44]}
+{"text_a": "Dracula is a novel by Bram Stoker featuring Count Dracula as the protagonist.", "span_a": [44, 76], "text_b": "Count Dracula is the protagonist of the novel.", "span_b": [0, 45]}
+{"text_a": "The Eiffel Tower, completed in 1889, is located in Paris.", "span_a": [0, 35], "text_b": "The Eiffel Tower was finished being built in 1889.", "span_b": [0, 49]}
+{"text_a": "The Eiffel Tower, completed in 1889, is located in Paris.", "span_a": [37, 56], "text_b": "The tower stands in the city of Paris.", "span_b": [0, 37]}
+{"text_a": "Marie Curie, who won two Nobel Prizes, was born in Warsaw.", "span_a": [0, 37], "text_b": "Marie Curie received two separate Nobel Prizes.", "span_b": [0, 46]}
+{"text_a": "Marie Curie, who won two Nobel Prizes, was born in Warsaw.", "span_a": [39, 57], "text_b": "She was born in the city of Warsaw.", "span_b": [0, 34]}
+{"text_a": "The Amazon River, which flows through Brazil, is the largest river by discharge volume.", "span_a": [0, 44], "text_b": "The Amazon River runs through Brazilian territory.", "span_b": [0, 49]}
+{"text_a": "The Amazon River, which flows through Brazil, is the largest river by discharge volume.", "span_a": [46, 86], "text_b": "It carries more water than any other river in the world.", "span_b": [0, 55]}
+{"text_a": "Photosynthesis, occurring in chloroplasts, converts sunlight into chemical energy.", "span_a": [0, 41], "text_b": "Photosynthesis takes place inside chloroplasts.", "span_b": [0, 46]}
+{"text_a": "Photosynthesis, occurring in chloroplasts, converts sunlight into chemical energy.", "span_a": [43, 81], "text_b": "It transforms sunlight into a form of chemical energy.", "span_b": [0, 53]}
